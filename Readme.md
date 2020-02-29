@@ -13,10 +13,11 @@
                 - Can be slow, need fast motor;
                 
        - Chosen scheme structural analysis (pictures in GitHub with explanation) in Support Materials - 2 hours;
-       - Read support material, to understand: "Theory of Mechanism and Machines (1988) I.I. Artobolevskii" (pages about Structural Analysis and Kinematics)
-       - Kinematics on blank list , now in process in Matlab Coding this kinematics (link to GitHub in References)
+       - Read support material, to understand: "Theory of Mechanism and Machines (1988) I.I. Artobolevskii" (pages about Structural Analysis and Kinematics) - 5-6 hours
+       - Kinematics on blank list , now in process in Matlab Coding this kinematics (GitHub in Support Material: Kinematics1) - 1 hour;
        - CAD (download soft - understand how to work with it, watch course: https://www.youtube.com/playlist?list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg) - 2 hours
-       - Kinematics not finished (in process of finishing in code) in KinematicsGripper.m - 5 hours + 0.5-1 for blank list in Support Material: Kinematics1.
+       - Kinematics not finished (in process of finishing in code) in KinematicsGripper.m - 5 hours 
+       - Meeting with superviser - 0.5 hour;
    
        
 #### - II Iteration:
@@ -29,7 +30,8 @@
        - Optimizations in CAD - 5 hours;
        - Checking the real balance in power - 3-4 hours;
        - Making model in 3D printer - not estimated yet
-       
+       - Meeting with superviser - 0.5 hour;
+
 #### - III Iteration: 
-       - dd
-       - dd
+       - 
+       - 
