@@ -3,6 +3,15 @@
 #### - I Iteration:
 
        - Open a review article and choose a flu scheme, modeling complexity - 1 hours;       
+                             https://grabcad.com/library/robot-arm-gripper-1
+                                          Advantages:
+                - Self-locking mechanism;
+                - Good for task to grab a brick;
+                - Exist giff to see how mechanism can work => better understanding;
+
+                                        Disadvantages: 
+                - Can be slow, need fast motor;
+                
        - Chosen scheme structural analysis (pictures in GitHub with explanation) in Support Materials - 2 hours;
        - Read support material, to understand: "Theory of Mechanism and Machines (1988) I.I. Artobolevskii" (pages about Structural Analysis and Kinematics)
        - Kinematics on blank list , now in process in Matlab Coding this kinematics (link to GitHub in References)
