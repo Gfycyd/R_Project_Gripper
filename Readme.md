@@ -1,5 +1,5 @@
 ## Course Project "Robotics Gripper"
 
-#### - 1 Iteration:
+#### - I Iteration:
   - DD
   - DD
