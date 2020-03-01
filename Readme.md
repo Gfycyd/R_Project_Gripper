@@ -23,15 +23,21 @@
 #### - II Iteration:
 
        - Calculations, to see which motor I need - 2 hours;
-       - Dynamics(strength requirements, fully static, no dynamics, choose lengths for gripper links) - 6 hours, in DynamicsGripper.m;
-       - Finish Kinematics - 4 hours, to make graphs to see dependencies of motor angle and position of one point, in KinematicsGripper.m;
-       - To think that without stopping the engine, the mechanism continues to move and how - 2-4 hours;
+       - Dynamics(strength requirements, fully static, no dynamics, choose lengths for gripper links + read book, already mentioned) - 6 hours, in DynamicsGripper.m;
+       - Finish Kinematics - 6 hours, to make graphs to see dependencies of motor angle and position of one point, in KinematicsGripper.m;
+       - To think that without stopping the engine, the mechanism continues to move and how - 0.5 hour;
        - Verification, movement work - 4-5 hours;
-       - Optimizations in CAD - 5 hours;
-       - Checking the real balance in power - 3-4 hours;
-       - Making model in 3D printer - not estimated yet
-       - Meeting with superviser - 0.5 hour;
+       - Meeting with supervis0r - 0.5 hour;
+       -  How to connect to the engine - 2-3 hours
+
 
 #### - III Iteration: 
-       - 
-       - 
+
+       -  Optimizations in CAD - 5 hours
+       -  Making model in 3D printer - 8 hours
+       -  Checking the real balance in power - 3-4 hours;
+       -  Learn to drive the engine - 5 hours
+       -  Verification, movement work - 3 hours;
+       -  Find brick - 0.5 hour
+       -  Meeting with supervisor - 0.5 hour
+
