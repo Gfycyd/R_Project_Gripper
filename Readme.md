@@ -28,7 +28,7 @@
        - To think that without stopping the engine, the mechanism continues to move and how - 0.5 hour;
        - Verification, movement work - 4-5 hours;
        - Meeting with supervis0r - 0.5 hour;
-       -  How to connect to the engine - 2-3 hours
+       - How to connect to the engine - 2-3 hours
 
 
 #### - III Iteration: 
