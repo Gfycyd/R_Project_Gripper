@@ -14,7 +14,7 @@
                 
        - Chosen scheme structural analysis (pictures in GitHub with explanation) in Support Materials - 2 hours;
        - Read support material, to understand: "Theory of Mechanism and Machines (1988) I.I. Artobolevskii" (pages about Structural Analysis and Kinematics) - 5-6 hours
-       - Kinematics on blank list , now in process in Matlab Coding this kinematics (GitHub in Support Material: Kinematics1) - 1 hour;
+       - Kinematics on blank list , now in process in Matlab Coding this kinematics (GitHub in Support Material: Kinematics1 and KinematicsFile.pdf) - 1 hour;
        - CAD (download soft - understand how to work with it, watch course: https://www.youtube.com/playlist?list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg) - 2 hours
        - Kinematics not finished (in process of finishing in code) in KinematicsGripper.m - 5 hours 
        - Meeting with superviser - 0.5 hour;
