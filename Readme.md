@@ -21,13 +21,12 @@
    
        
 #### - II Iteration:
-
-       - Calculations, to see which motor I need - 2 hours;
-       - Dynamics(strength requirements, fully static, no dynamics, choose lengths for gripper links + read book, already mentioned) - 6 hours, in DynamicsGripper.m;
        - Finish Kinematics - 6 hours, to make graphs to see dependencies of motor angle and position of one point, in KinematicsGripper.m;
+ 
+       - Calculations, to see which motor I need - 2 hours;
+       - Dynamics(strength requirements, stopping conditions, fully static, no dynamics, choose lengths for gripper links + read book, already mentioned) - 6 hours, in DynamicsGripper.m;
        - To think that without stopping the engine, the mechanism continues to move and how - 0.5 hour;
-       - Verification, movement work - 4-5 hours;
-       - Meeting with supervis0r - 0.5 hour;
+       - Meeting with supervisor - 0.5 hour;
        - How to connect to the engine - 2-3 hours
 
 
