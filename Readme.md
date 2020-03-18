@@ -42,8 +42,8 @@
 #### - IV Iteration: 
        - Presentation to supervisor - 0.5 
        - Meeting with supervisor - 0.5
-       -  Checking the real balance in power - 3-4 hours;
-       -  Learn to drive the engine - 5 hours
+       - Checking the real balance in power - 3-4 hours;
+       - Learn to drive the engine - 5 hours
        - Making model in 3D printer - 8 hours
       
 
