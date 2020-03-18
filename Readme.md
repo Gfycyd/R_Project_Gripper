@@ -33,10 +33,17 @@
 #### - III Iteration: 
 
        -  Optimizations in CAD - 5 hours
-       -  Making model in 3D printer - 8 hours
-       -  Checking the real balance in power - 3-4 hours;
-       -  Learn to drive the engine - 5 hours
-       -  Verification, movement work - 3 hours;
+       -  CAD model - 15 hours
        -  Find brick - 0.5 hour
        -  Meeting with supervisor - 0.5 hour
+       -  Moving points in Kinematics in Matlab - 2 hours
+       -  Changing something in Dynamics.pdf file (check it and change)
+
+#### - IV Iteration: 
+       - Presentation to supervisor - 0.5 
+       - Meeting with supervisor - 0.5
+       -  Checking the real balance in power - 3-4 hours;
+       -  Learn to drive the engine - 5 hours
+       - Making model in 3D printer - 8 hours
+      
 
