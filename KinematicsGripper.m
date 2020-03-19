@@ -3,22 +3,22 @@
 clear
 close all
 syms w real;
-
 %% 0 Step: What we have
 PC = 2;
 h = 1; % from 1 to 2 
 OA = 5; % that give us 
 AB = 5;
-BC  = AB;
-DE = AB;
-CD = DE; 
-aX0 = 0;
+BC  = 3;
+DE = 2;
+
+FE = 10;
+CD = FE; 
+aX0 = 0.4;
 
 
 cX = AB + sqrt(BC^2 - PC^2);
 cY = OA + PC;
 
-FE = 5; % we know that CD = FE and they are parallel, and also BC = CD
 beta0 = asin(PC/BC);
 
 
@@ -26,7 +26,7 @@ fX = 12;
 fY = 2 ; % we think as an example
 
 %% 1 STEP
-aX = aX0 + simplify(w/2/3.1416 * h);
+aX = aX0 - simplify(w/2/3.1416 * h);
 aY = OA;
 
 AP = cX - aX;
@@ -85,20 +85,37 @@ eVX1 = [];
 eVY1 = [];
 
 for c = 0:130
-     w = c*0.09;
+     w = c*0.06;
 
      eX1 = [eX1 eval(eX)];
      eY1 = [eY1 eval(eY)];
+     
      eVX1 = [eVX1 eval(vEX)];
      eVY1 = [eVY1 eval(vEY)];
      
      eAX1 = [eAX1 eval(aEX)];
      eAY1 = [eAY1 eval(aEY)];
      
+     bX = eval(simplify(aX + AB*cos(alpha)));
+     bY = eval(simplify(aY - AB*sin(alpha))); 
+     
+     dX = eval(simplify(cX + CD*cos(gamma)));
+     dY = eval(simplify(cY + CD*sin(gamma)));
+
+     
+     figure(10)
+     plot([eval(aX) bX cX dX eval(eX) fX],...
+         [aY bY  cY dY  eval(eY) fY]);
+     xlim([0 25])
+     ylim([0 25])
+
+    %% pause(0.01)
+     
      count = count + 1;
 end
 
 w = linspace(0,(count-1), count);
+
 
 figure(1)
 plot(w,eX1,'b');
@@ -106,7 +123,7 @@ hold on;
 plot(w,eY1,'r');
 hold off;
 xlabel('angle, rad')
-ylabel('vX and vY of E')
+ylabel('eX and eY of E')
 
 figure(2)
 plot(w,eVX1,'b');
